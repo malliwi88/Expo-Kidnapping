@@ -1,0 +1,9 @@
+{
+  "scroll": true,
+  "overview": true,
+  "width": 1024,
+  "height": 768,
+  "theme": "sky",
+  "transition": "concave",
+  "start_slideshow_at": "selected"
+}
