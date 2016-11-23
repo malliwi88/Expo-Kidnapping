@@ -71,5 +71,3 @@ dependencies:
   - jupyter-client==4.4.0
   - jupyter-core==4.2.0
   - prompt-toolkit==1.0.9
-prefix: /home/zenbook/anaconda3/envs/rise-expo
-
